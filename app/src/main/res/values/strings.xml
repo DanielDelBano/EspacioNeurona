@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Neurona</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--<string name="detalle">Primera linea. \r\n\Segunda linea.. \r\n\r\ntercera linea.</string>-->
+    <!--DatePicker & TimePicker-->
+    <string name="titlulo_pickers">Obtener fecha y hora</string>
+    <string name="formato_fecha">dd/mm/yyyy</string>
+    <string name="formato_hora">hh:mm</string>
+    <!-- menu -->
+    <string name="seccion_1">Mi Perfil</string>
+    <string name="seccion_2">Mis Reservas</string>
+    <string name="seccion_3">Opciones</string>
+    <string name="opcion_1">Acerca de</string>
+    <string name="opcion_2">Cerrar Sesión</string>
+    <string name="otras_opciones">Otras opciones</string>
+
+    <string name="loading">Cargando...</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="espacioSubtitle">Si necesitas espacio para desarrollar tu actividad digital en Zaragoza es justo lo que podemos ofrecerte.</string>
+    <string name="tuEspacio">Aulas para \nformación</string>
+    <string name="filosofia">Nuestra filosofía une la diversión con el trabajo,
+        el buen rollo es indispensable, así como un ambiente que permita poner el
+        foco en el trabajo, y al levantarte del sitio te permita divertirte y
+        desconectar.</string>
+    <string name="filosofia2">Igualmente para nosotros es imprescindible el aprendizaje
+        continuo, por eso Espacio Neurona es 50% trabajo y 50% formación, porque
+        todo va unido, y porque es lo que va a impulsar tu carrera.</string>
+    <string name="servicios">
+        <ul>
+             <li>Dos baños dobles y baño de minusválidos.</li>
+             <li>Office para 12 personas con microondas y frigorífico.</li>
+             <li>Máquina de café.</li>
+             <li>Zonas de descanso.</li>
+             <li>Ping Pong y máquina de arcade.</li>
+             <li>Terraza.</li>
+             <li>Precio especial sala reuniones (10€/hora).</li>
+             <li>Precio especial sala formación (35€/h).</li>
+             <li>Descuento en formaciones Neurona (-15%)</li>
+             <li>Impresora y escáner según tarifa..</li>
+             <li>Comunidad de perfiles digitales.</li>
+        </ul>
+    </string>
+    <string name="seleccionarFecha">Seleccione una fecha</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="descripcion_coworking">Queremos cuidar al detalle  nuestro espacio de coworking para crear una comunidad real de profesionales digitales que ofrezca sinergias 
+        y colaboración en Zaragoza. Nuestra filosofía une la diversión con el trabajo, el buen rollo es indispensable, así como un ambiente que permita poner el foco en el trabajo, 
+        y al levantarte del sitio te permita divertirte y desconectar.
+        Igualmente para nosotros es imprescindible el aprendizaje continuo, por eso Espacio Neurona es 50% trabajo y 50% formación, porque todo va unido, y porque es lo que va a 
+        impulsar tu carrera.
+    </string>
+    <string name="title_activity_coworking_reserva">CoworkingReservaActivity</string>
+    <string name="descripcion_salas">Te ofrecemos salas para tus reuniones perfectamente equipadas para que puedas llevar a cabo tus actividades
+        de la forma más cómoda, con capacidad para 8 y 6 personas.
+        Utilice nuestras salas de reuniones para presentaciones, entrevistas, captación de clientes o formación para su empresa.
+        En Neurona disponemos de todo lo que necesita para su reunión. Sólo tiene que entrar y empezar a trabajar.</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+</resources>

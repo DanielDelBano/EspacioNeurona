@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "914638716840",
+    "firebase_url": "https://espacioneurona-889af.firebaseio.com",
+    "project_id": "espacioneurona-889af",
+    "storage_bucket": "espacioneurona-889af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914638716840:android:e881b7f498d09bd8",
+        "android_client_info": {
+          "package_name": "com.example.danieldelbano.espacioneurona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914638716840-5gd6b7uhnsb0or87r52tb503hi04ko6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.danieldelbano.espacioneurona",
+            "certificate_hash": "5a4df0b6267af23d1e96ed30e8b1b8c5a7d4ae28"
+          }
+        },
+        {
+          "client_id": "914638716840-97momh9t64dqb1lt7qiaolpkunm9mnmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGaNk8BjAtqE-mQLuvwc5wfiV0mlpLS3s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914638716840-97momh9t64dqb1lt7qiaolpkunm9mnmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

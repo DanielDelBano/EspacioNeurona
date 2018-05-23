@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="BaseTheme" parent="@style/Theme.Design.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#00b8a9</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="AppTheme" parent="BaseTheme">
+
+    </style>
+    <style name="TabWidgetTheme" parent="AppTheme">
+        <item name="android:textColorPrimary">#040404</item>
+        <item name="android:textColorSecondary">#00b8a9</item>
+        <item name="colorAccent">#00b8a9</item>
+    </style>
+
+
+</resources>
